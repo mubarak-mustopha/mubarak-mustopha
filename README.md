@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mubarak-mustopha
-- 👀 I am a first year software engineering student in The Federal University Of Technology Akure
-- 🌱 I’m currently learning python and backend development
+- 👀 I am currently a software engineering student in The Federal University Of Technology Akure
+- 🌱 I’m currently learning python,javascript and backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
